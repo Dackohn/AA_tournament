@@ -56,4 +56,5 @@ The strategy’s ability to **forgive**, **adapt**, and **defend** shows a matur
 ## **Conclusion**
 
 The "Diplomat" strategy is a **cooperative** and **adaptive** approach to the Prisoner’s Dilemma. It balances trust-building and retaliation while always striving to restore cooperation when possible. This makes it a **reliable** and **long-term** strategy, well-suited for tournaments where maintaining stable relationships yields consistent success.
+
 ---
