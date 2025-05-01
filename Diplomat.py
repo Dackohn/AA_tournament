@@ -51,7 +51,7 @@ def strategy(my_history: list[int], opponent_history: list[int], rounds: int | N
 
     if opponent_history[-1] == 1:
         return 1
-    elif len(opponent_history) >= 2 and opponent_history[-2:] == [1, 0]:
+    elif len(opponent_history) >= 3 and opponent_history[-3:] == [1, 1, 0]:
         return 1
     else:
         return 0
